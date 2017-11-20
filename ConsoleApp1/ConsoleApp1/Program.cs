@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Primerio teste GitHub");
+            Console.WriteLine("Primerio teste GitHub, Visual Studio 2017 Win");
             Console.ReadKey();
         }
     }
